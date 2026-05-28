@@ -1,4 +1,4 @@
-# 🛒 Projeto de Análise de Dados - E-commerce SQL
+#  Projeto de Análise de Dados - E-commerce SQL
 
 Este repositório contém um projeto prático de banco de dados para um cenário de E-commerce. O objetivo é demonstrar habilidades em modelagem de dados (DDL), manipulação de dados (DML) e criação de consultas analíticas complexas (Joins, Agregações e Filtros) para geração de insights de negócios.
 
