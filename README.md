@@ -21,5 +21,4 @@ O modelo consiste em 4 tabelas principais:
 - Produtos mais vendidos e receita detalhada por item.
 - Performance de vendas consolidada por estado (região).
 
----
-*Projeto desenvolvido para fins de portfólio.*
+
